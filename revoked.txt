@@ -1,3 +1,4 @@
 # Refunded Hero Pass keys (ids only). One per line; Capey reads this file.
 0cdeb576dc278387  # 2026-10-23 key manager
 b6cabaeae6c877b5  # 2026-10-23 key manager
+aed124a7c5a8159e  # 2026-10-23 key manager
